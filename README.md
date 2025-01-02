@@ -4,6 +4,8 @@ This repository contains a PyTorch implementation of the “Graph Network-based 
 This repo uses purely PyTorch's native APIs, and is in an adaptation of code [GNS-PyTorch](https://github.
 com/zhouxian/GNS-PyTorch/tree/main).
 
+Git repo: [https://github.com/ariana-ch/GraphNeuralSimulator](https://github.com/ariana-ch/GraphNeuralSimulator)
+
 ## Table of Contents
 1. [Setup](#setup)
 2. [Download Dataset](#download-dataset)
