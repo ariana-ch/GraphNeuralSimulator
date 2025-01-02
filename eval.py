@@ -50,7 +50,7 @@ def main():
     model = Net()
     model.to(device)
 
-    cp = torch.load(args.ckpt, map_location=f'{device.type}:0')
+    cp = torch.load(args.ckpt, weights_only=True)
     model.load_state_dict(cp['model'])
     tester = PredEvaluator(
         device=torch.device(device),
