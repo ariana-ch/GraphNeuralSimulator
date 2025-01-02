@@ -1,8 +1,7 @@
 # Simulating Complex Physics Using Graph Neural Simulators
 
 This repository contains a PyTorch implementation of the “Graph Network-based Simulators” (GNS) model ([Learning to simulate complex physics with graph networks](https://arxiv.org/abs/2002.09405), ICML 2020) from DeepMind for simulating particle-based dynamics using graph networks.
-This repo uses purely PyTorch's native APIs, and is in an adaptation of code [GNS-PyTorch](https://github.
-com/zhouxian/GNS-PyTorch/tree/main).
+This repo uses purely PyTorch's native APIs, and is in an adaptation of code [GNS-PyTorch](https://github.com/zhouxian/GNS-PyTorch/tree/main).
 
 Git repo: [https://github.com/ariana-ch/GraphNeuralSimulator](https://github.com/ariana-ch/GraphNeuralSimulator)
 
